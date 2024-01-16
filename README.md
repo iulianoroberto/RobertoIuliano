@@ -1,7 +1,8 @@
-## My Github stats
-![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=iulianoroberto&count_private=true&show_icons=true&theme=gruvbox&line_height=40)
-![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=iulianoroberto&theme=gruvbox&langs_count=8&hide=css&count_private=true&show_icons=true&line_height=40)
+## Github stats
+![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=iulianoroberto&count_private=true&show_icons=true&theme=dark&line_height=40)
 
+## Most used languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iulianoroberto&layout=donut-vertical&theme=dark&line_height=42)](https://github.com/iulianoroberto/github-readme-stats)
 
 ## My skills
 
